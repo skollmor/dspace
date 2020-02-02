@@ -1,3 +1,7 @@
+% To get to know dataspace, selection "..?/Introduction to Dataspace" from 
+% the main menu of the Dataspace-App or type in Matlab:
+% dspace.help('dspace.resources.docs.Introduction_to_Dataspace')
+
 %% IRIS Dataset
 load fisheriris;
 X = meas.';
