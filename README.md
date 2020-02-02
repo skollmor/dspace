@@ -4,7 +4,7 @@
 a graphical user interface intended to facilitate data analysis in various 
 fields of science.**
 
-![Dataspace for Zebra Finch Song Development](https://raw.githubusercontent.com/skollmor/dspace/master/App/Docs/+dspace/+resources/images/FullApp.jpg)
+![Dataspace for Zebra Finch Song Development](https://raw.githubusercontent.com/skollmor/dspace/master/App/Docs/+dspace/+resources/images/FullApp.png)
 
 ### How to Use Dataspace
 Checkout (or copy) the dspace-repository to your local machine. In Matlab, run the function 
