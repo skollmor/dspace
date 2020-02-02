@@ -6,6 +6,10 @@ fields of science.**
 
 ![Dataspace for Zebra Finch Song Development](https://raw.githubusercontent.com/skollmor/dspace/master/App/Docs/+dspace/+resources/images/FullApp.png)
 
+This version of Dataspace is released concurrently with the research paper:
+
+*Kollmorgen, S., Hahnloser, R.H.R. & Mante, V. Nearest neighbours reveal fast and slow components of motor learning. Nature 577, 526-530 (2020). https://doi.org/10.1038/s41586-019-1892-x*
+
 ### How to Use Dataspace
 Checkout (or copy) the dspace-repository to your local machine. In Matlab, run the function 
 dspace() located in the main dataspace folder:
@@ -43,11 +47,7 @@ Dataspace makes use of the following Matlab toolboxes (the toolboxes need to be 
 - statistics_toolbox
 
 # Citations
-This version of Dataspace is released concurrently with the research paper:
-
-*Kollmorgen, S., Hahnloser, R.H.R. & Mante, V. Nearest neighbours reveal fast and slow components of motor learning. Nature 577, 526-530 (2020). https://doi.org/10.1038/s41586-019-1892-x*
-
-Please cite this paper if you use Dataspace.
+Please cite the paper mentioned above if you use Dataspace.
 
 # Folders
 Dataspace comes in two parts: the **dspace-core** and the **dspace-GUI**. 
