@@ -4,7 +4,7 @@
 a graphical user interface intended to facilitate data analysis in various 
 fields of science.**
 
-![Dataspace for Zebra Finch Song Development](https://raw.githubusercontent.com/skollmor/dspace/master/App/Docs/+dspace/+resources/images/FullApp.png)
+![Dataspace for Zebra Finch Song Development](https://raw.githubusercontent.com/skollmor/dspace/master/App/Docs/+dspace/+resources/images/FullApp_smaller.png)
 
 This version of Dataspace is released concurrently with the research paper:
 
